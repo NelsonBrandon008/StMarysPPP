@@ -6,5 +6,5 @@ import react from "@vitejs/plugin-react";
 // or a custom domain, leave it as "./".
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: "/StMarysPPP/",
 });
